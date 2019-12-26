@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="my_vsgames_fivechess:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/my_vsgames_fivechess_jar</output-path>
+    <root id="archive" name="my_vsgames_fivechess.jar">
+      <element id="module-output" name="my_vsgames_fivechess" />
+    </root>
+  </artifact>
+</component>
