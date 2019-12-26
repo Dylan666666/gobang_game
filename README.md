@@ -5,9 +5,9 @@
 
 客户端界面：
 
-![客户端界面](https://github.com/Dylan666666/gobang_game/blob/master/Client.png)
+![客户端界面](https://github.com/Dylan666666/gobang_game/blob/master/image/ClientRunner.png)
 
 服务器端展示：
 
-![服务器端界面](https://github.com/Dylan666666/gobang_game/blob/master/ServerRunner.png)
+![服务器端界面](https://github.com/Dylan666666/gobang_game/blob/master/image/ServerRunner.png)
 
